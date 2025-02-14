@@ -16,7 +16,7 @@
       "flags": {}
     }
   ],
-  "manifest": https://raw.githubusercontent.com/Valsavus/Whispers-of-Dread-PF2E/refs/heads/main/module.json?token=GHSAT0AAAAAAC4TXDGGUMEYBFHYMF24D4CKZ5PU6DA,
+  "manifest": "https://raw.githubusercontent.com/Valsavus/Whispers-of-Dread-PF2E/refs/heads/main/module.json?token=GHSAT0AAAAAAC4TXDGHE3JY5JQDF73QYQXSZ5PVCXQ",
   "download": "https://github.com/Valsavus/whispers-of-dread-pf2e/archive/refs/tags/1.0.0.zip",
   "description": "Ancestry, Heritage, Feats and more for Dark Sun",
   "authors": [
