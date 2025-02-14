@@ -1,0 +1,45 @@
+{
+  "id": "whispers-of-dread",
+  "title": "Whispers of dread",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This is the first adventure in the Lands of the Ravaged Sun written by Luke Swadling, Rober Adducci, and Monty Platz (Toucanbuzz)",
+  "authors": [
+    {
+      "name": "Shawn Bowman",
+      "email": "shawnpaulbowman75@gmail.com",
+      "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
+      "discord": "valsavus",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Valsavus/dark-sun-foundry-module-pf2e/refs/heads/main/module.json",
+  "download": "https://github.com/Valsavus/dark-sun-foundry-module-pf2e/archive/refs/tags/2.2.1.zip",
+  "description": "Ancestry, Heritage, Feats and more for Dark Sun",
+  "authors": [
+    {
+      "name": "Shawn Bowman",
+      "email": "shawnpaulbowman75@gmail.com",
+      "discord": "valsavus",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
+  "packs": [
+    {
+      "name": "whispers-of-dread",
+      "label": "Whispers of Dread",
+      "path": "packs/whispers-of-dread",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
