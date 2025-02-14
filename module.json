@@ -16,8 +16,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Valsavus/Whispers-of-Dread-PF2E/refs/heads/main/module.json?token=GHSAT0AAAAAAC4TXDGHYYOPHURLKR3R7P5EZ5PVKLA",
-  "download": "https://github.com/Valsavus/whispers-of-dread-pf2e/archive/refs/tags/1.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/Valsavus/Whispers-of-Dread-PF2E/refs/heads/main/module.json",
+  "download": "https://github.com/Valsavus/whispers-of-dread-pf2e/archive/refs/tags/1.0.2.zip",
   "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
   "packs": [
     {
