@@ -1,15 +1,8 @@
-2025/03/30-19:11:58.560456 f2bde960f000 Recovering log #56
-2025/03/30-19:11:58.566692 f2bde960f000 Delete type=0 #56
-2025/03/30-19:11:58.566716 f2bde960f000 Delete type=3 #54
-2025/03/30-19:25:06.563734 f2bdcaa0f000 Level-0 table #61: started
-2025/03/30-19:25:06.575454 f2bdcaa0f000 Level-0 table #61: 946870 bytes OK
-2025/03/30-19:25:06.577796 f2bdcaa0f000 Delete type=0 #59
-2025/03/30-19:25:06.578602 f2bdcaa0f000 Manual compaction at level-0 from '!adventures!Nx6lsV0zo7iT5iyf' @ 72057594037927935 : 1 .. '!adventures!Nx6lsV0zo7iT5iyf' @ 0 : 0; will stop at (end)
-2025/03/30-19:25:06.584966 f2bdcaa0f000 Manual compaction at level-1 from '!adventures!Nx6lsV0zo7iT5iyf' @ 72057594037927935 : 1 .. '!adventures!Nx6lsV0zo7iT5iyf' @ 0 : 0; will stop at '!adventures!Nx6lsV0zo7iT5iyf' @ 22 : 1
-2025/03/30-19:25:06.584972 f2bdcaa0f000 Compacting 1@1 + 1@2 files
-2025/03/30-19:25:06.590641 f2bdcaa0f000 Generated table #62@1: 1 keys, 110130 bytes
-2025/03/30-19:25:06.590652 f2bdcaa0f000 Compacted 1@1 + 1@2 files => 110130 bytes
-2025/03/30-19:25:06.592574 f2bdcaa0f000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/30-19:25:06.592738 f2bdcaa0f000 Delete type=2 #61
-2025/03/30-19:25:06.592940 f2bdcaa0f000 Delete type=2 #49
-2025/03/30-19:25:06.598822 f2bdcaa0f000 Manual compaction at level-1 from '!adventures!Nx6lsV0zo7iT5iyf' @ 22 : 1 .. '!adventures!Nx6lsV0zo7iT5iyf' @ 0 : 0; will stop at (end)
+2025/05/01-19:50:57.147357 f2bdd320f000 Recovering log #71
+2025/05/01-19:50:57.158426 f2bdd320f000 Delete type=0 #71
+2025/05/01-19:50:57.158452 f2bdd320f000 Delete type=3 #67
+2025/05/01-19:51:41.228793 f2bdcaa0f000 Level-0 table #78: started
+2025/05/01-19:51:41.228819 f2bdcaa0f000 Level-0 table #78: 0 bytes OK
+2025/05/01-19:51:41.231412 f2bdcaa0f000 Delete type=0 #76
+2025/05/01-19:51:41.231477 f2bdcaa0f000 Manual compaction at level-0 from '!adventures!Nx6lsV0zo7iT5iyf' @ 72057594037927935 : 1 .. '!adventures!Nx6lsV0zo7iT5iyf' @ 0 : 0; will stop at (end)
+2025/05/01-19:51:41.231491 f2bdcaa0f000 Manual compaction at level-1 from '!adventures!Nx6lsV0zo7iT5iyf' @ 72057594037927935 : 1 .. '!adventures!Nx6lsV0zo7iT5iyf' @ 0 : 0; will stop at (end)
