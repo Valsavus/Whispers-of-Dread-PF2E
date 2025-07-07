@@ -1,12 +1,12 @@
 {
   "id": "whispers-of-dread",
   "title": "Whispers of dread",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
-  "description": "This is the first adventure in the Lands of the Ravaged Sun written by Luke Swadling, Rober Adducci, and Monty Platz (Toucanbuzz)",
+  "description": "<p>This is the first adventure in the Lands of the Ravaged Sun written by Luke Swadling, Rober Adducci, and Monty Platz (Toucanbuzz)</p>",
   "authors": [
     {
       "name": "Shawn Bowman",
@@ -17,7 +17,7 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Valsavus/Whispers-of-Dread-PF2E/refs/heads/main/module.json",
-  "download": "https://github.com/Valsavus/whispers-of-dread-pf2e/archive/refs/tags/1.0.5.zip",
+  "download": "https://github.com/Valsavus/whispers-of-dread-pf2e/archive/refs/tags/1.1.0.zip",
   "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
   "packs": [
     {
@@ -39,6 +39,14 @@
         "type": "module",
         "compatibility": {}
       }
+    ],
+    "requires": [
+      {
+        "id": "dark-sun-foundry-module-pf2e",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
-  }
+  },
+  "flags": {}
 }
